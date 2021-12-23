@@ -1,7 +1,7 @@
 {
-  "name": "dcode-denpa",
+  "name": "Levi-Ackerman",
   "version": "0.0.1",
-  "description": "bitch-boot",
+  "description": "ɪ ᴛʜɪɴᴋ ᴛʜᴇ ʙᴇꜱᴛ ᴅɪꜱᴄɪᴘʟɪɴᴇ ɪɴ ᴘᴀɪɴ!",
   "main": "node index",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "denis-putra",
+  "author": "░P░A░I░N░",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
@@ -60,10 +60,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcode-denpa/bitch-boot.git"
+    "url": "git+https://github.com/Pain77/Levi-Ackerman.git"
   },
   "bugs": {
-    "url": "https://github.com/dcode-denpa/bitch-boot/issues"
+    "url": "https://github.com/Pain77/Levi-Ackerman/issues"
   },
-  "homepage": "https://github.com/dcode-denpa/bitch-boot#readme"
+  "homepage": "https://github.com/Pain77/Levi-Ackerman#readme"
 }
