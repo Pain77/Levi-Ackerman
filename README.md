@@ -30,7 +30,7 @@
 > npm start/node index.js
 ```
 
-# REQUIREMENTS
+# PC REQUIREMENTS
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
@@ -38,5 +38,6 @@
 
   # THANKS TO :
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`P-A-I-N`](https://github.com/Pain77)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
 * [`Dcode-denpa`](https://github.com/dcode-denpa)
