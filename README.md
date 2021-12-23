@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/81/c9/7b/81c97bbeeced20aa899211ddc461f24c.jpg" alt="Levi" width="300" />
+<img src="https://i.pinimg.com/736x/81/c9/7b/81c97bbeeced20aa899211ddc461f24c.jpg" alt="Pain" width="300" />
 
 # ʟᴇᴠɪ ᴀᴄᴋᴇʀᴍᴀɴ : ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
 
@@ -15,7 +15,7 @@
 ## INSTALLATION ON TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/YuzzuKamiyaka/bitch-bot
+> git clone https://github.com/Pain77/Levi-Ackerman
 > cd bitch-bot
 > npm install terminal-kit
 > bash install.sh
@@ -23,7 +23,7 @@
 ```
 ## INSTALLATION ON PC
 ```bash
-> git clone https://github.com/YuzzuKamiyaka/bitch-bot
+> git clone https://github.com/Pain77/Levi-Ackerman
 > cd bitch-bot
 > npm install terminal-kit
 > npm i
