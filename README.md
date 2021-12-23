@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/86514883?v=4" alt="Yuzzu" width="300" />
+<img src="https://i.pinimg.com/736x/81/c9/7b/81c97bbeeced20aa899211ddc461f24c.jpg" alt="Levi" width="300" />
 
 # YUZZU KAMIYAKA
 
@@ -8,11 +8,11 @@
 >
 </div>
 <p align="center">
-  <a href="https://instagram.com/dcodedenpa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285866295942"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/on11._.sama"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/919662713165"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-## CARA INSTALL DI TERMUX
+## INSTALLATION ON TERMUX
 ```bash
 > pkg install nodejs && pkg install git
 > git clone https://github.com/YuzzuKamiyaka/bitch-bot
@@ -21,7 +21,7 @@
 > bash install.sh
 > npm start/node index.js
 ```
-## CARA INSTALL DI LAPTOP
+## INSTALLATION ON PC
 ```bash
 > git clone https://github.com/YuzzuKamiyaka/bitch-bot
 > cd bitch-bot
