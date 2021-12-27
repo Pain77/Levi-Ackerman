@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/86514883?v=4" alt="Yuzzu" width="300" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/936fb42f-06ae-4d8d-81a7-12d9c2f80037/dbbjmou-e5ae00ba-beca-448b-af55-130d62af3019.jpg/v1/fill/w_1024,h_1545,q_75,strp/levi_ackerman__my_edit__by_immvsanime_dbbjmou-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU0NSIsInBhdGgiOiJcL2ZcLzkzNmZiNDJmLTA2YWUtNGQ4ZC04MWE3LTEyZDljMmY4MDAzN1wvZGJiam1vdS1lNWFlMDBiYS1iZWNhLTQ0OGItYWY1NS0xMzBkNjJhZjMwMTkuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ._cTbx5IgpWtIMU7wXkvQW7NNsBaGwD28W-u_sP1eyRw" alt="Yuzzu" width="300" />
 
 # ʟᴇᴠɪ ᴀᴄᴋᴇʀᴍᴀɴ : ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
 
