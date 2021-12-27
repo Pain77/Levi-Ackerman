@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://c.tenor.com/uKtpA6aBurMAAAPo/anime-attack-on-titan.mp4" border="0"></a>
+  <img src="https://c.tenor.com/uKtpA6aBurMAAAPo/anime-attack-on-titan.gif" border="0"></a>
 
 # ʟᴇᴠɪ ᴀᴄᴋᴇʀᴍᴀɴ : ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
 
