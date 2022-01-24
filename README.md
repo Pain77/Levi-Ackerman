@@ -16,7 +16,7 @@
 ```bash
 > pkg install nodejs && pkg install git
 > git clone https://github.com/Pain77/Levi-Ackerman
-> cd bitch-bot
+> cd Levi-Ackerman
 > npm install terminal-kit
 > bash install.sh
 > npm start/node index.js
@@ -24,7 +24,7 @@
 ## INSTALLATION ON PC
 ```bash
 > git clone https://github.com/Pain77/Levi-Ackerman
-> cd bitch-bot
+> cd Levi-Ackerman
 > npm install terminal-kit
 > npm i
 > npm start/node index.js
