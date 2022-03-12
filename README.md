@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://scontent.famd5-1.fna.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/89876306_102667621372075_6696603597926301696_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=8024bb&_nc_ohc=sOT1RHCMcDsAX9UeusN&_nc_ht=scontent.famd5-1.fna&oh=00_AT8vW25SDUhoGuiDfe6Le3KqdinArjj7PAktZN3D-Pg_LQ&oe=61F01B6C" alt="Yuzzu" width="300" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0aba3d35-a488-4db5-b16a-775863ea0111/dedhq83-652f6ceb-d2bd-41a4-8fa2-08f25bf2fbb1.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBhYmEzZDM1LWE0ODgtNGRiNS1iMTZhLTc3NTg2M2VhMDExMVwvZGVkaHE4My02NTJmNmNlYi1kMmJkLTQxYTQtOGZhMi0wOGYyNWJmMmZiYjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qVKl_lz7BAhNU2NHVoW4HrCFy5t4wJ_9ZzE6GBOq8Vo" alt="Yuzzu" width="300" />
 
 # ʟᴇᴠɪ ᴀᴄᴋᴇʀᴍᴀɴ : ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
 
